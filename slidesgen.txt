@@ -1,0 +1,15 @@
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/0.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/1.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/2.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/3.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/4.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/5.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/6.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/7.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/8.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/9.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/10.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/11.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/12.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/13.mp4" data-background-video-muted="true"></section>
+<section data-background-size="contain"  data-background-color="white" data-background-video="assets/gracie/14.mp4" data-background-video-muted="true"></section>
